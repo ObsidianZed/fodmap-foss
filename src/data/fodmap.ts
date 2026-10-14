@@ -1720,7 +1720,7 @@ export default [
     name: "Pistachio",
     fodmap: "high",
     category: "Nuts and Seeds",
-    details: { oligos: 2, fructose: 0, polyols: 0, lactose: 0 },
+    details: { oligos: 2, fructose: 1, polyols: 0, lactose: 0 },
   },
   {
     id: "254",
